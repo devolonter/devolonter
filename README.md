@@ -15,26 +15,10 @@ I'm programmer with 15 years experience. I'm familiar with different programming
 | <img src="https://user-images.githubusercontent.com/225176/173105365-f86e24e0-a539-4846-b760-e2c70a5be20f.png" width=48 height=48> | CConverter | Creator | [Flutter](https://flutter.dev) | [App Store](https://apps.apple.com/pl/app/multi-cconverter/id1627810516), [Google Play](https://play.google.com/store/apps/details?id=com.devolonter.cconverter)
 
 ### Programming languages that I know well
-`Dart, Go lang, JS, GDScript, Java`
+`Dart, GoLang, JS, GDScript, Java`
 
 ### Technologies and tools that I know well
 `Flutter, Godot, Vue,js, OpenGL/WebGL, Shaders, Firebase, HTML/CSS, Nginx, Gin, MySQL, Git`
 
 ### Social links and other
 [LinkedIn](https://www.linkedin.com/in/devolonter/), [Twitter](https://twitter.com/devolonter), [Curriculum Vitae](https://github.com/devolonter/devolonter/files/8880579/Artur_Bikmullin_CV.pdf)
-
-
-<!--
-**devolonter/devolonter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
