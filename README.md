@@ -14,7 +14,14 @@ I'm programmer with 15 years experience. I'm familiar with different programming
 | <img src="https://user-images.githubusercontent.com/225176/173105371-21a3ef93-1306-41c9-a901-f7613d016be4.png" width=48 height=48> | Ераунд | Android development | [Flutter](https://flutter.dev) | [App Store](https://apps.apple.com/pl/app/ераунд/id1619303740), [Google Play](https://play.google.com/store/apps/details?id=com.wildpluto.eradar&hl=ru&gl=US)
 | <img src="https://user-images.githubusercontent.com/225176/173105365-f86e24e0-a539-4846-b760-e2c70a5be20f.png" width=48 height=48> | CConverter | Creator | [Flutter](https://flutter.dev) | [App Store](https://apps.apple.com/pl/app/multi-cconverter/id1627810516), [Google Play](https://play.google.com/store/apps/details?id=com.devolonter.cconverter)
 
+### Programming languages that I know well
+`Dart, Go lang, JS, GDScript, Java`
 
+### Technologies and tools that I know well
+`Flutter, Godot, Vue,js, OpenGL/WebGL, Shaders, Firebase, HTML/CSS, Nginx, Gin, MySQL, Git`
+
+### Social links and other
+[LinkedIn](https://www.linkedin.com/in/devolonter/), [Twitter](https://twitter.com/devolonter), [Curriculum Vitae](https://github.com/devolonter/devolonter/files/8880579/Artur_Bikmullin_CV.pdf)
 
 
 <!--
