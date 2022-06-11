@@ -15,7 +15,7 @@ I fell in love with programming in 2001 and I still enjoy it. I like open source
 | <img src="https://user-images.githubusercontent.com/225176/173105365-f86e24e0-a539-4846-b760-e2c70a5be20f.png" width=48 height=48> | CConverter | Creator | [Flutter](https://flutter.dev) | [App Store](https://apps.apple.com/pl/app/multi-cconverter/id1627810516), [Google Play](https://play.google.com/store/apps/details?id=com.devolonter.cconverter)
 
 ### Programming languages that I know well
-`Dart, GoLang, JS, GDScript, Java`
+`Dart, Go, JS, GDScript, Java`
 
 ### Technologies and tools that I know well
 `Flutter, Godot, Vue,js, OpenGL/WebGL, Shaders, Firebase, HTML/CSS, Nginx, Gin, MySQL, Git`
