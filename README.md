@@ -1,8 +1,8 @@
 ### Hi there
 
-I'm programmer with 15 years experience. I'm familiar with different programming languages and quickly learn new ones. I work well both in a team and alone. I like advanced and not trivial tasks. I like to learn new things.
+I fell in love with programming in 2001 and I still enjoy it. I like open source projects so most of my personal projects are open source. I hope you will find my projects useful, feel free to use and modify my code!
 
->I'm currently learning and using Flutter. I'm looking for remote job or freelance projects!
+>I'm currently learning and using Flutter. I'm open to new opportunities and offers
 
 ### My recent achievements
 
