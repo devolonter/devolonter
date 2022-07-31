@@ -21,4 +21,4 @@ I fell in love with programming in 2001 and I still enjoy it. I like open source
 `Flutter, Godot, Vue,js, OpenGL/WebGL, Shaders, Firebase, HTML/CSS, Nginx, Gin, MySQL, Git`
 
 ### Social links and other
-[LinkedIn](https://www.linkedin.com/in/devolonter/), [Twitter](https://twitter.com/devolonter), [Curriculum Vitae](https://github.com/devolonter/devolonter/files/8880579/Artur_Bikmullin_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/devolonter/), [Upwork](https://www.upwork.com/freelancers/~01a2454be847b6aeac) [Twitter](https://twitter.com/devolonter)
