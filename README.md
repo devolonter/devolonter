@@ -2,8 +2,6 @@
 
 I fell in love with programming in 2001 and still enjoy it. I like open source projects, so most of my projects are open source. I hope you will find my projects useful for learning, inspiration, or something else.
 
->I'm currently learning and using Flutter. I'm open to new opportunities
-
 ### My recent achievements
 
 | Icon | Title | Role | Tool | Links |
