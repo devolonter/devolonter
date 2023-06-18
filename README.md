@@ -1,6 +1,10 @@
-### Hi there
+### Hello there!
 
-I fell in love with programming in 2001 and still enjoy it. I like open source projects, so most of my projects are open source. I hope you will find my projects useful for learning, inspiration, or something else.
+I am a passionate programmer who discovered the magic of coding years ago and has been in love with it ever since.
+
+Open-source projects are my playground, and most of my work is shared openly for you to explore, learn from, get inspired, or contribute.
+
+I hope you find my projects useful and that they spark curiosity and drive in you just as they have done for me over the years.
 
 ### My recent achievements
 
