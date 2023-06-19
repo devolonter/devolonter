@@ -8,7 +8,7 @@ Open-source projects are my playground, and most of my work is shared openly for
 
 |  | Mobile App |
 | ------ | ------ |
-|<img src="https://user-images.githubusercontent.com/225176/218105285-fba43994-d41e-408b-88e9-90e42f91e7d0.png" width=52 height=52> | CConverter |
+|<img src="https://user-images.githubusercontent.com/225176/218105285-fba43994-d41e-408b-88e9-90e42f91e7d0.png" width=46 height=46> | CConverter |
 | **About** | Modern and simple currency conversion app that supports expressions. With its advanced expression support, you can easily convert multiple currencies by a single expression. |
 | **Role** | Flutter Developer |
 | Stack | Rest API, Flutter
@@ -16,7 +16,7 @@ Open-source projects are my playground, and most of my work is shared openly for
 
 |  | Mobile App |
 | ------ | ------ |
-|<img src="https://user-images.githubusercontent.com/225176/173105371-21a3ef93-1306-41c9-a901-f7613d016be4.png" width=52 height=52> | Eround |
+|<img src="https://user-images.githubusercontent.com/225176/173105371-21a3ef93-1306-41c9-a901-f7613d016be4.png" width=46 height=46> | Eround |
 | **About** | This project aims to create an interactive map to bridge the gap between volunteers and those in need during challenging times. The map provides a real-time, geographical representation of help needed and helps available. |
 | **Role** | Flutter Developer |
 | Stack | Firebase, Rest API, Flutter
@@ -24,7 +24,7 @@ Open-source projects are my playground, and most of my work is shared openly for
 
 |  | Mobile App |
 | ------ | ------ |
-|<img src="https://user-images.githubusercontent.com/225176/173105370-7035ffcc-c24d-4844-84cd-a1264f7ca087.png" width=52 height=52> | eTryvoga |
+|<img src="https://user-images.githubusercontent.com/225176/173105370-7035ffcc-c24d-4844-84cd-a1264f7ca087.png" width=46 height=46> | eTryvoga |
 | **About** | Volunteer app that sends push notifications to your phone about threats in the region or city of your choice in Ukraine. |
 | **Role** | Flutter Developer, Java Developer |
 | Stack | Firebase, Rest API, Flutter
@@ -32,7 +32,7 @@ Open-source projects are my playground, and most of my work is shared openly for
 
 |  | Mobile Game |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/225176/173105373-099423db-1d7d-4a2f-9ddc-1e4e24a06c4d.png" width=52 height=52> | Food Frenzy: Puzzle |
+| <img src="https://user-images.githubusercontent.com/225176/173105373-099423db-1d7d-4a2f-9ddc-1e4e24a06c4d.png" width=46 height=46> | Food Frenzy: Puzzle |
 | **About** | Dive into a culinary adventure with Food Frenzy: Puzzle! This isn't just another match-3 game; it's a food game that spices up the genre and serves a delicious experience. |
 | **Role** | Lead Developer, Game Designer, Shader and Animation Programmer, Particle Designer |
 | Stack | Firebase, Rest API, Nakama, Godot
@@ -40,7 +40,7 @@ Open-source projects are my playground, and most of my work is shared openly for
 
 |  | Mobile Game |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/225176/173104309-d9dd0b00-4bdd-46e5-a893-1547ec921b26.png" width=52 height=52> | Zen Match |
+| <img src="https://user-images.githubusercontent.com/225176/173104309-d9dd0b00-4bdd-46e5-a893-1547ec921b26.png" width=46 height=46> | Zen Match |
 | **About** | A classic match-3 game with unique gameplay based on time management and quick thinking brings freshness to the everlasting classic gameplay |
 | **Role** | Lead Developer, Shader and Animation Programmer, Particle Designer |
 | Stack | Firebase, Rest API, Nakama, Godot
@@ -50,4 +50,4 @@ Open-source projects are my playground, and most of my work is shared openly for
 `Dart, Go, JS, GDScript, Java`
 
 ### Technologies and tools that I know well
-`Flutter, Godot, React,js, OpenGL/WebGL, Shaders, Firebase, HTML/CSS, Nginx, Gin, Git`
+`Flutter, Godot, React.js, OpenGL/WebGL, Shaders, Firebase, HTML/CSS, Nginx, Gin, Git`
